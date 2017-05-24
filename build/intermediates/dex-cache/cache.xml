@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Courses\itc 162\ExtraCredit\ch09_ex4_NewsReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89857e854431d9aa07c4143e16fe54a56be4ffd3">
+        <dex dex="D:\Courses\itc 162\ExtraCredit\ch09_ex4_NewsReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_172ddae6f231db832818950da3b7657a30745aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Courses\itc 162\ExtraCredit\ch09_ex4_NewsReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Courses\itc 162\ExtraCredit\ch09_ex4_NewsReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e431a6e785df74930fe95443dba10259e3164829\classes.dex" />
+    </item>
+
+</items>
